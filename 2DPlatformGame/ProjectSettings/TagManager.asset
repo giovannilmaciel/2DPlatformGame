@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
+  - GameOver
   - 
   - 
   - 
@@ -44,8 +44,8 @@ TagManager:
   - name: Background
     uniqueID: 4155633229
     locked: 0
-  - name: Bricks
-    uniqueID: 1492827843
+  - name: BackgroundIImage
+    uniqueID: 214622889
     locked: 0
   - name: Ground
     uniqueID: 1305387123
@@ -58,4 +58,7 @@ TagManager:
     locked: 0
   - name: Interactables
     uniqueID: 1253502233
+    locked: 0
+  - name: Bricks
+    uniqueID: 1492827843
     locked: 0
