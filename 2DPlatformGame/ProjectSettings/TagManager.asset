@@ -60,6 +60,9 @@ TagManager:
   - name: Interactables
     uniqueID: 1253502233
     locked: 0
+  - name: Next Level
+    uniqueID: 2123233917
+    locked: 0
   - name: Bricks
     uniqueID: 1492827843
     locked: 0
